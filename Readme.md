@@ -40,3 +40,4 @@ npm install
 ```bash
 npm run dev
 ```
+4. you can also check the data submission in console for the debugging purpose
